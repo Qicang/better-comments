@@ -46,6 +46,7 @@
         "onLanguage:flax",
         "onLanguage:fsharp",
         "onLanguage:fortran-modern",
+        "onLanguage:FortranFreeForm",
         "onLanguage:gdscript",
         "onLanguage:genstat",
         "onLanguage:go",
